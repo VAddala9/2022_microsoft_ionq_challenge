@@ -29,6 +29,13 @@ Running it on ionq.qpu
 4. The gates the other player played are visible - except the last k moves (specified in the first step)
 5. The qubits are measured and the player wins if more 1's are measured. If not, the computer wins
 
+An example of a circuit in this subgame
+<img src="images/nurture_circuit.jpg">
+
+Results on ionq.qpu
+
+<img src="images/nurture_results.png">
+
 ## Playing the Game
 Open the [integrated notebook](https://github.com/VAddala9/GameOfLife/blob/main/IntegratedGameOfLife.ipynb) in Microsoft Azure Jupyter portal then follow prompts in the notebook.
 
