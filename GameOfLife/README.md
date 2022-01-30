@@ -30,11 +30,11 @@ Running it on ionq.qpu
 5. The qubits are measured and the player wins if more 1's are measured. If not, the computer wins
 
 An example of a circuit in this subgame
-<img src="images/nurture_circuit.png">
+<img src="images/nurture_circuit.PNG">
 
 Results on ionq.qpu
 
-<img src="images/nurture_results.png">
+<img src="images/nurture_results.PNG">
 
 ## Playing the Game
 Open the [integrated notebook](https://github.com/VAddala9/GameOfLife/blob/main/IntegratedGameOfLife.ipynb) in Microsoft Azure Jupyter portal then follow prompts in the notebook.
